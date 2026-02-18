@@ -1,4 +1,4 @@
-# 🚀 AceNotes
+# 🚀 QuickPrep-AI
 
 AceNotes is a full-stack AI-powered notes generator built using the MERN stack and Google Gemini API.  
 It generates structured, exam-ready notes instantly from user prompts.
